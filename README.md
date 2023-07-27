@@ -1,7 +1,7 @@
 # PunkAvatarWorld
 Essential Information
 
-White Papaer WIP
+White Paper WIP
 
 
 
