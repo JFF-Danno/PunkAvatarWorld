@@ -9,7 +9,7 @@ White Paper WIP
 
 **Abstract:**
 
-This white paper outlines the vision, mission, and strategic approach will undertake.
+This white paper outlines the vision, mission, and strategic approach we will undertake.
 
 **1. Introduction:**
 PFP NFTs were massively popular and succsseful in the previous crypto bullrun. Much like crypto, NFTs have been declared dead. That tells us in nft twitter to get ready for round 2.
